@@ -21,8 +21,10 @@ A visual representation of the journey from comfort zone to success, illustratin
 - JavaScript (ES6)
 
 
-https://github.com/user-attachments/assets/c85f034f-97cc-4fe1-8385-60a25e14ad9e
 
+
+
+https://github.com/user-attachments/assets/804ef20a-e6f2-4b09-9d28-8ac9eec7b3ee
 
 
 
